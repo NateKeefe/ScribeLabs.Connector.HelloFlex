@@ -1,0 +1,9 @@
+C:\Users\nkeefe\Documents\GitHub\HelloFlex\ScribeLabs.Connector.HelloFlex\bin\Debug\ScribeLabs.Connector.HelloFlex.dll
+C:\Users\nkeefe\Documents\GitHub\HelloFlex\ScribeLabs.Connector.HelloFlex\bin\Debug\ScribeLabs.Connector.HelloFlex.pdb
+C:\Users\nkeefe\Documents\GitHub\HelloFlex\ScribeLabs.Connector.HelloFlex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkeefe\Documents\GitHub\HelloFlex\ScribeLabs.Connector.HelloFlex\bin\Debug\Simple.Connector.Framework.dll
+C:\Users\nkeefe\Documents\GitHub\HelloFlex\ScribeLabs.Connector.HelloFlex\obj\Debug\ScribeLabs.Connector.HelloFlex.csproj.CoreCompileInputs.cache
+C:\Users\nkeefe\Documents\GitHub\HelloFlex\ScribeLabs.Connector.HelloFlex\obj\Debug\ScribeLabs.Connector.HelloFlex.csproj.CopyComplete
+C:\Users\nkeefe\Documents\GitHub\HelloFlex\ScribeLabs.Connector.HelloFlex\obj\Debug\ScribeLabs.Connector.HelloFlex.dll
+C:\Users\nkeefe\Documents\GitHub\HelloFlex\ScribeLabs.Connector.HelloFlex\obj\Debug\ScribeLabs.Connector.HelloFlex.pdb
+C:\Users\nkeefe\Documents\GitHub\HelloFlex\ScribeLabs.Connector.HelloFlex\obj\Debug\ScribeLabs.Connector.HelloFlex.csprojAssemblyReference.cache

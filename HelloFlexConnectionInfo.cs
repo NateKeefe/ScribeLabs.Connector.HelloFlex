@@ -33,9 +33,12 @@
         }
         protected override IList<HttpQueryRegistration> ConfigureQueries()
         {
-            var test = this.Queries.EnumerateResponseAs<Test, Rootobject>("test", r => r.Items.Cast<Test>());
+            var employers = this.Queries.EnumerateResponseAs<employers, employers[]>
+                ("/api/employers", r => r)
+                .AcceptJson()
+                .FromInputToQuery("search");
 
-            return new List<HttpQueryRegistration> { test };
+            return new List<HttpQueryRegistration> { employers };
         }
 
         protected override IList<HttpCallDescription> ConfigureOperations()
